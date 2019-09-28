@@ -1,0 +1,32 @@
+{
+  "products" : {
+    "-LpqSHzHiTpJi1iQkIJq" : {
+      "creatorId" : "xXMtsSC4kJd5m5RVxJhQiNamyFH2",
+      "description" : "Cool Red T- Shirt",
+      "imageUrl" : "https://cdn.pixabay.com/photo/2016/10/02/22/17/red-t-shirt-1710578_1280.jpg",
+      "price" : 100.0,
+      "title" : "Red T - Shirt"
+    },
+    "-LpqSHzHiTpJi1iQkIMf" : {
+      "creatorId" : "xXMtsSC4kJd5m5RVxJhQiNamyFH2",
+      "description" : "Prepare any meal you want.",
+      "imageUrl" : "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Cast-Iron-Pan.jpg/1024px-Cast-Iron-Pan.jpg",
+      "price" : 99.99,
+      "title" : "A Pan"
+    },
+    "-LpqSHzHiTpJi1iQkINP" : {
+      "creatorId" : "xXMtsSC4kJd5m5RVxJhQiNamyFH2",
+      "description" : "Warm and cozy - exactly what you need for the winter.",
+      "imageUrl" : "https://live.staticflickr.com/4043/4438260868_cc79b3369d_z.jpg",
+      "price" : 50.0,
+      "title" : "Yellow Scarf"
+    },
+    "-LpqSHzHiTpJi1iQkITM" : {
+      "creatorId" : "xXMtsSC4kJd5m5RVxJhQiNamyFH2",
+      "description" : "A nice pair of trousers.",
+      "imageUrl" : "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Trousers%2C_dress_%28AM_1960.022-8%29.jpg/512px-Trousers%2C_dress_%28AM_1960.022-8%29.jpg",
+      "price" : 250.0,
+      "title" : "Trousers"
+    }
+  }
+}
